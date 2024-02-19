@@ -32,7 +32,7 @@ jobs:
 
                   # Package manager. NPM, PNPM and Yarn supported. Install Yarn and PNPM yourself. Default is NPM
                   # (Optional)
-                  package_manager: Yarn
+                  package_manager: NPM
 
                   # Skip buiding the application
                   # (Optional)

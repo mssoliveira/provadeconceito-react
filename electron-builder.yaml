@@ -1,6 +1,6 @@
 appId: 'io.github.mssoliveira.provadeconceito-react'
 productName: 'Prova de Conceito - react'
-copyright: 'Copyright (c) 2023 RBFraphael'
+copyright: 'Copyright (c) 2024 Mauricio Souza'
 win:
     target: ['dir', 'portable', 'zip']
     icon: 'resources/icon.ico'
